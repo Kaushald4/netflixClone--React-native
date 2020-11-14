@@ -1,0 +1,9 @@
+export {default as HomeScreen} from './HomeScreen/homeScreen';
+export {default as SearchScreen} from './SearchScreen/searchScreen';
+export {default as CommingSoonScreen} from './CommingSoonScreen/commingSoonScreen';
+export {default as DownloadsScreen} from './DownloadsScreen/downloadsScreen';
+export {default as MoreScreen} from './MoreScreen/moreScreen';
+export {default as OnBoardingScreen} from './OnBoardingScreen/onBoardingScreen';
+export {default as TvShowsScreen} from './TvShowsScreen/tvShowsScreen';
+export {default as MoviesScreen} from './MoviesScreen/MoviesScreen';
+export {default as MyListScreen} from './MyListScreen/myListScreen';
